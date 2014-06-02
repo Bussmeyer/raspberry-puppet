@@ -1,3 +1,3 @@
-[submodule "modules/mpd"]
-	path = modules/mpd
+[submodule "puppet/modules/mpd"]
+	path = puppet/modules/mpd
 	url = https://github.com/ajjahn/puppet-mpd
